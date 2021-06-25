@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```js
-  const ManuelDeAlba = {
+  let ManuelDeAlba = {
     code: [HTML, CSS, JavaScript, NodeJS],
     tools: [React, Firebase]
   }
