@@ -9,7 +9,8 @@
 
 [Portafolio 👨‍💻](https://manueldealba.github.io/Portafolio)
 
-![ManuelDeAlba estadísticas](https://github-readme-stats.vercel.app/api?username=ManuelDeAlba)
+![ManuelDeAlba estadísticas](https://github-readme-stats.vercel.app/api?username=manueldealba&show_icons=true)
+
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=manueldealba&layout=compact)
 
