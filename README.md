@@ -7,7 +7,7 @@
   }
 ```
 
-[Portafolio 👨‍💻](https://manueldealba.github.io/Portafolio)
+<!-- [Portafolio 👨‍💻](https://manueldealba.github.io/Portafolio) -->
 
 ![ManuelDeAlba estadísticas](https://github-readme-stats.vercel.app/api?username=manueldealba&show_icons=true)
 
