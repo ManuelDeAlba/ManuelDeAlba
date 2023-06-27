@@ -2,8 +2,11 @@
 
 ```js
   let ManuelDeAlba = {
-    code: [HTML, CSS, JavaScript, NodeJS],
-    tools: [React, Firebase]
+    code: ["HTML", "CSS", "JavaScript", "Python"],
+    frameworks: ["ReactJS"],
+    backend: ["NodeJS", "Express", "Sequelize"],
+    databases: ["PostgreSQL"],
+    otherTools: ["Firebase"]
   }
 ```
 
