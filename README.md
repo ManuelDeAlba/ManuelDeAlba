@@ -4,7 +4,7 @@
   let ManuelDeAlba = {
     code: ["HTML", "CSS", "JavaScript", "Python"],
     frameworks: ["ReactJS"],
-    backend: ["NodeJS", "Express", "Sequelize"],
+    backend: ["NodeJS", "Express", "Sequelize", "Socket.io"],
     databases: ["PostgreSQL"],
     otherTools: ["Firebase"]
   }
