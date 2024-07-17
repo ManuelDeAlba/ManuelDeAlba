@@ -2,18 +2,23 @@
 
 ```js
   let ManuelDeAlba = {
+    website: "https://manueldealba.com",
     code: ["HTML", "CSS", "JavaScript", "Python"],
-    frameworks: ["ReactJS"],
-    backend: ["NodeJS", "Express", "Sequelize", "Socket.io"],
-    databases: ["PostgreSQL"],
-    otherTools: ["Firebase"]
+    frameworks: ["React.js", "Next.js", "Astro"],
+    cssFrameworks: ["TailwindCSS"],
+    backend: ["NodeJS", "Express", "Socket.io", "SequelizeORM", "PrismaORM"],
+    databases: {
+        relational: ["PostgreSQL", "Oracle", "MySQL"],
+        nonRelational: ["MongoDB"]
+    },
+    otherTools: ["Firebase", "Stripe"],
+    learning: ["TypeScript", "React Native"]
   }
 ```
 
-<!-- [Portafolio 👨‍💻](https://manueldealba.github.io/Portafolio) -->
-
+[Portafolio 👨‍💻](https://manueldealba.com)
+  
 ![ManuelDeAlba estadísticas](https://github-readme-stats.vercel.app/api?username=manueldealba&show_icons=true)
-
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=manueldealba&layout=compact)
 
