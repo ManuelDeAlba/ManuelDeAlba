@@ -17,10 +17,14 @@
 ```
 
 [Portafolio 👨‍💻](https://manueldealba.com)
-  
-![ManuelDeAlba estadísticas](https://github-readme-stats.vercel.app/api?username=manueldealba&show_icons=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=manueldealba&layout=compact)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=manueldealba&show_icons=true" alt="ManuelDeAlba estadísticas">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueldealba&layout=compact" alt="Lenguajes más usados">
+</div>
+
+<img src="https://streak-stats.demolab.com?user=manueldealba" alt="Github streak">
 
 <!--
 **ManuelDeAlba/ManuelDeAlba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
