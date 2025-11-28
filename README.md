@@ -11,8 +11,8 @@
         relational: ["PostgreSQL", "Oracle", "MySQL"],
         nonRelational: ["MongoDB"]
     },
-    otherTools: ["Firebase", "Stripe"],
-    learning: ["TypeScript", "React Native"]
+    otherTools: ["Firebase", "Stripe", "Docker"],
+    learning: ["TypeScript"]
   }
 ```
 
